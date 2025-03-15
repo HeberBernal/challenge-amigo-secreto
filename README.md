@@ -24,4 +24,4 @@ Añade el elemento de lista a la lista que se muestra en la página.
 Por ultimo la parte de este codigo verifica si la lista "amigos" está vacía, si lo está,
 muestra una alerta diciendo que no hay amigos para sortear. Si la lista no está vacía,
 genera un número aleatorio que se utiliza para seleccionar un amigo al azar de la lista.
-Obtiene el nombre del amigo seleccionado y muestra el nombre del amigo secreto en la página web.
+Obtiene el nombre del amigo seleccionado y muestra el nombre del amigo secreto.
