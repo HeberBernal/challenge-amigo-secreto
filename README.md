@@ -22,19 +22,7 @@ La aplicación permite a los usuarios ingresar los nombres de sus amigos en una 
 - **CSS3:** Estilos visuales personalizados, tipografías y maquetación adaptada.
 - **JavaScript (Vanilla JS):** captura de eventos, validaciones y actualización dinámica de la interfaz.
 
-## ⚙️ Estructura del Repositorio
-
-El repositorio está estructurado de la siguiente manera:
-```bash
-├── index.html        # Archivo principal de la estructura HTML.
-├── style.css         # Archivo de estilos con el diseño visual del challenge.
-├── app.js            # Archivo de lógica en JavaScript (controlador del DOM y sorteo).
-└── assets/           # Carpeta con recursos gráficos (imágenes, iconos, etc.).
-
-
-------------------------------------------------------------------------------
-
-## Puntos clave del desarrollo en JAVASCRIPT
+🎯 Puntos clave del desarrollo con JAVASCRIPT
 
 ![image](https://github.com/user-attachments/assets/9338ec92-dfe6-40ee-a116-ce0d32404505)
 
@@ -59,7 +47,12 @@ Añade el elemento de lista a la lista que se muestra en la página.
 
 ![image](https://github.com/user-attachments/assets/9277d005-490b-4b22-addc-3f99c3f8008f)
 
-Por ultimo la parte de este codigo verifica si la lista "amigos" está vacía, si lo está,
-muestra una alerta diciendo que no hay amigos para sortear. Si la lista no está vacía,
-genera un número aleatorio que se utiliza para seleccionar un amigo al azar de la lista.
-Obtiene el nombre del amigo seleccionado y muestra el nombre del amigo secreto.
+## ⚙️ Estructura del Repositorio
+
+El repositorio está estructurado de la siguiente manera:
+```bash
+├── index.html        # Archivo principal de la estructura HTML.
+├── style.css         # Archivo de estilos con el diseño visual del challenge.
+├── app.js            # Archivo de lógica en JavaScript (controlador del DOM y sorteo).
+└── assets/           # Carpeta con recursos gráficos (imágenes, iconos, etc.).
+
