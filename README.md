@@ -22,7 +22,7 @@ La aplicación permite a los usuarios ingresar los nombres de sus amigos en una 
 - **CSS3:** Estilos visuales personalizados, tipografías y maquetación adaptada.
 - **JavaScript (Vanilla JS):** captura de eventos, validaciones y actualización dinámica de la interfaz.
 
-🎯 Puntos clave del desarrollo con JAVASCRIPT
+## 🎯 Puntos clave del desarrollo con JAVASCRIPT
 
 ![image](https://github.com/user-attachments/assets/9338ec92-dfe6-40ee-a116-ce0d32404505)
 
