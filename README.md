@@ -20,7 +20,7 @@ La aplicación permite a los usuarios ingresar los nombres de sus amigos en una 
 
 - **HTML5:** Estructura semántica del sitio web.
 - **CSS3:** Estilos visuales personalizados, tipografías y maquetación adaptada.
-- **JavaScript (Vanilla JS):** Lógica del negocio, captura de eventos, validaciones y actualización dinámica de la interfaz.
+- **JavaScript (Vanilla JS):** captura de eventos, validaciones y actualización dinámica de la interfaz.
 
 ## ⚙️ Estructura del Repositorio
 
