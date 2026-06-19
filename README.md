@@ -32,6 +32,7 @@ El repositorio está estructurado de la siguiente manera:
 └── assets/           # Carpeta con recursos gráficos (imágenes, iconos, etc.).
 
 
+------------------------------------------------------------------------------
 
 ## Puntos clave del desarrollo en JAVASCRIPT
 
