@@ -1,3 +1,40 @@
+# Challenge Amigo Secreto 🎁🎲
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+Esta es una aplicación web interactiva desarrollada como parte del desafío (Challenge) del programa **ONE (Oracle Next Education)** en conjunto con **Alura Latam**. El objetivo del proyecto es poner en práctica conocimientos fundamentales de lógica de programación y manipulación del DOM mediante JavaScript.
+
+La aplicación permite a los usuarios ingresar los nombres de sus amigos en una lista dinámica para posteriormente realizar un sorteo aleatorio y determinar quién es el **"Amigo Secreto"**.
+
+## 🚀 Características del Proyecto
+
+- **Añadir nombres de forma dinámica:** Permite capturar los nombres ingresados por el usuario mediante un campo de texto y un botón interactivo.
+- **Validaciones de entrada:** El sistema valida que el campo de texto no esté vacío y previene la inserción de datos inválidos o espacios en blanco innecesarios.
+- **Renderizado de lista en tiempo real:** Los nombres agregados se muestran inmediatamente en una lista en pantalla mediante la manipulación dinámica de nodos HTML.
+- **Sorteo aleatorio transparente:** Utiliza algoritmos nativos de JavaScript (`Math.random()` y `Math.floor()`) para seleccionar de forma justa un único nombre de la lista de participantes.
+- **Interfaz intuitiva y responsiva:** Diseño visual limpio, moderno y adaptable que asegura una excelente experiencia tanto en computadoras como en dispositivos móviles.
+
+## 🛠️ Tecnologías Utilizadas
+
+- **HTML5:** Estructura semántica del sitio web.
+- **CSS3:** Estilos visuales personalizados, tipografías y maquetación adaptada.
+- **JavaScript (Vanilla JS):** Lógica del negocio, captura de eventos, validaciones y actualización dinámica de la interfaz.
+
+## ⚙️ Estructura del Repositorio
+
+El repositorio está estructurado de la siguiente manera:
+```bash
+├── index.html        # Archivo principal de la estructura HTML.
+├── style.css         # Archivo de estilos con el diseño visual del challenge.
+├── app.js            # Archivo de lógica en JavaScript (controlador del DOM y sorteo).
+└── assets/           # Carpeta con recursos gráficos (imágenes, iconos, etc.).
+
+
+
+## Puntos clave del desarrollo en JAVASCRIPT
+
 ![image](https://github.com/user-attachments/assets/9338ec92-dfe6-40ee-a116-ce0d32404505)
 
 Se creo una lista vacía llamada "amigos". Esta lista se utilizará para almacenar los nombres de las personas que participarán en el sorteo del amigo secreto.
